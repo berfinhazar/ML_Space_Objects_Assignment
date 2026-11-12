@@ -52,7 +52,7 @@ Elde edilen gruplar:
 
 ![Küme Dağılımı](outputs/kume_dagilimi.png)
 
-![Yörünge Kümeleri](outputs/yörünge_kumeleri.png)
+![Yörünge Kümeleri](outputs/yo%CC%88ru%CC%88nge_kumeleri.png)
 
 ## Kullanılan Teknolojiler
 
